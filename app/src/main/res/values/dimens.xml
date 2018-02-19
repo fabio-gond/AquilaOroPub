@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">25sp</dimen>
+    <dimen name="address">20sp</dimen>
+    <dimen name="phone">25sp</dimen>
+    <dimen name="button">20sp</dimen>
+    <dimen name="buttons_height">60dp</dimen>
+    <dimen name="all_smallMargin">10dp</dimen>
+    <dimen name="main_bordersPadding">25dp</dimen>
+    <dimen name="main_logoMargin">40dp</dimen>
+</resources>

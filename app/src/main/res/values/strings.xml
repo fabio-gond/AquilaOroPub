@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AcquilaOroPub</string>
+    <string name="main_title">Aquila d\'Oro</string>
+    <string name="main_description">Brewery and Pub</string>
+    <string name="main_address">Via Roma, 21\n12044 Centallo (CN)</string>
+    <string name="main_phone">0121/315461</string>
+    <string name="main_web">acquilaoropub.com</string>
+</resources>
